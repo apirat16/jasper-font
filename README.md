@@ -14,9 +14,13 @@ Fonts extension package
 
 ## FAQ
  - How do I know which Java version installed on my machine?
+
    Run ```$ java -version``` in console
+
  - How to check Maven version installed on my machine?
+
    Run ```$ mvn -version``` in console
+   
 
 ## Credits
  - TH Sarabun New (https://www.f0nt.com/release/th-sarabun-new/)
